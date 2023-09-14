@@ -2,8 +2,7 @@
 
 License Plate Detection and Recognition using YOLOv8 is a computer vision project that aims to detect and recognize license plates in images and videos using the YOLOv8 (You Only Look Once version 8) object detection algorithm.
 
-![You will get data annotation work for computer vision object detection deep learning](https://github.com/farukalampro/license-plate-detection-recognition-using-yolov8/assets/92469073/c469543c-8452-4fd4-b526-4d477c9a96bd)
-
+https://github.com/farukalampro/license-plate-detection-recognition-using-yolov8/assets/92469073/8e313bd1-6c96-451b-991a-f87187e6f927
 
 ## Introduction
 
